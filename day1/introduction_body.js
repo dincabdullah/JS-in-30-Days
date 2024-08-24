@@ -1,0 +1,1 @@
+console.log("Body of external script! ")
